@@ -31,8 +31,8 @@ pip install [project_name]
 Clone this repository
 
 ```bash
-git clone https://github.com/[myself]/[project_name].git
-cd [project_name]
+git clone https://github.com/AyoubBelhadji/random_matrix_factorization.git
+cd random_matrix_factorization
 ```
 
 And execute `setup.py`
@@ -61,4 +61,3 @@ The main functions included in this package are `x()` and `z()`. `x` receives A 
 x(`hello`, `world`, 27, [])
 ```
 
-A more detailed documentation can be found in [link].
