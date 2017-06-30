@@ -1,7 +1,5 @@
 # random_matrix_factorization
 
-[![Build Status](https://travis-ci.org/AyoubBelhadji/random_matrix_factorization.svg?branch=[branch_to_test])](https://travis-ci.org/AyoubBelhadji/random_matrix_factorization)
-
 > project description
 
 random_matrix_factorization is a library implementing ....
