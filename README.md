@@ -22,11 +22,6 @@ And execute `setup.py`
 pip install .
 ```
 
-Of course, if you're in development mode and you want to install also dev packages, documentation and/or tests, you can do as follows:
-
-```bash
-pip install -e .
-```
 
 
 
