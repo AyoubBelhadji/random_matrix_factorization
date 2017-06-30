@@ -1,16 +1,16 @@
-# [Project Name]
+# random_matrix_factorization
 
-[![Build Status](https://travis-ci.org/[your_username]/[project_name].svg?branch=[branch_to_test])](https://travis-ci.org/[your_username]/[project_name])
+[![Build Status](https://travis-ci.org/AyoubBelhadji/random_matrix_factorization.svg?branch=[branch_to_test])](https://travis-ci.org/AyoubBelhadji/random_matrix_factorization)
 
 > project description
 
-[Project Name] is a library implementing time-travel equations based on incomplete scarce agile data. This project is used to build flux capacitors.  More information about this project can be found in my third book.
+random_matrix_factorization is a library implementing ....
 
 ## Download
 
 ### Pre requirements
 
-[Project Name] requires a previous installation of radioactive filters in your machine. You can do it on linux by executing
+random_matrix_factorization requires a previous installation of radioactive filters in your machine. You can do it on linux by executing
 
 ```bash
 sudo apt-get radioactive-filters
@@ -23,7 +23,7 @@ or in mac and windows by following the instructions on this webpage: http://cool
 You can find this package in the Python package index and install it using `pip`
 
 ```bash
-pip install [project_name]
+pip install random_matrix_factorization
 ````
 
 ### Install from sources
