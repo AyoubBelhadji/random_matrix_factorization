@@ -7,16 +7,6 @@ random_matrix_factorization is a library implementing ....
 ## Download
 
 
-
-
-### Install using `pip`
-
-You can find this package in the Python package index and install it using `pip`
-
-```bash
-pip install random_matrix_factorization
-````
-
 ### Install from sources
 
 Clone this repository
