@@ -8,15 +8,8 @@ random_matrix_factorization is a library implementing ....
 
 ## Download
 
-### Pre requirements
 
-random_matrix_factorization requires a previous installation of radioactive filters in your machine. You can do it on linux by executing
 
-```bash
-sudo apt-get radioactive-filters
-```
-
-or in mac and windows by following the instructions on this webpage: http://cool.radioactive.filters
 
 ### Install using `pip`
 
@@ -47,17 +40,5 @@ Of course, if you're in development mode and you want to install also dev packag
 pip install -e .
 ```
 
-## Usage examples
 
-You can import [my package] by doing
-
-```python
-import my_package as mp
-```
-
-The main functions included in this package are `x()` and `z()`. `x` receives A as argument and does X. Here is example of its usage:
-
-```python
-x(`hello`, `world`, 27, [])
-```
 
